@@ -35,7 +35,7 @@ EDS_TUPM-25-4151_ILAO/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/EDS_TUPM-25-4151_ILAO.git
+git clone https://github.com/nvmrk/EDS_TUPM-25-4151_ILAO.git
 cd EDS_TUPM-25-4151_ILAO
 ```
 
